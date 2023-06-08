@@ -1,0 +1,15 @@
+D:\مجلد جديد\ToDo List Homework\ToDo List Homework\bin\Debug\net6.0\ToDo List Homework.exe
+D:\مجلد جديد\ToDo List Homework\ToDo List Homework\bin\Debug\net6.0\ToDo List Homework.deps.json
+D:\مجلد جديد\ToDo List Homework\ToDo List Homework\bin\Debug\net6.0\ToDo List Homework.runtimeconfig.json
+D:\مجلد جديد\ToDo List Homework\ToDo List Homework\bin\Debug\net6.0\ToDo List Homework.dll
+D:\مجلد جديد\ToDo List Homework\ToDo List Homework\bin\Debug\net6.0\ref\ToDo List Homework.dll
+D:\مجلد جديد\ToDo List Homework\ToDo List Homework\bin\Debug\net6.0\ToDo List Homework.pdb
+D:\مجلد جديد\ToDo List Homework\ToDo List Homework\obj\Debug\net6.0\ToDo List Homework.csproj.AssemblyReference.cache
+D:\مجلد جديد\ToDo List Homework\ToDo List Homework\obj\Debug\net6.0\ToDo List Homework.GeneratedMSBuildEditorConfig.editorconfig
+D:\مجلد جديد\ToDo List Homework\ToDo List Homework\obj\Debug\net6.0\ToDo List Homework.AssemblyInfoInputs.cache
+D:\مجلد جديد\ToDo List Homework\ToDo List Homework\obj\Debug\net6.0\ToDo List Homework.AssemblyInfo.cs
+D:\مجلد جديد\ToDo List Homework\ToDo List Homework\obj\Debug\net6.0\ToDo List Homework.csproj.CoreCompileInputs.cache
+D:\مجلد جديد\ToDo List Homework\ToDo List Homework\obj\Debug\net6.0\ToDo List Homework.dll
+D:\مجلد جديد\ToDo List Homework\ToDo List Homework\obj\Debug\net6.0\ref\ToDo List Homework.dll
+D:\مجلد جديد\ToDo List Homework\ToDo List Homework\obj\Debug\net6.0\ToDo List Homework.pdb
+D:\مجلد جديد\ToDo List Homework\ToDo List Homework\obj\Debug\net6.0\ToDo List Homework.genruntimeconfig.cache
